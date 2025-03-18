@@ -1,4 +1,4 @@
-# 📜 TruthLens Verifier
+# 📜 News Verifier
 
 _A simple web tool that helps verify news credibility using real-time data fetching._
 
